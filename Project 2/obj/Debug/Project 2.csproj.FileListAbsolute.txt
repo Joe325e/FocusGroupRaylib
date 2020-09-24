@@ -1,0 +1,13 @@
+C:\Users\383989\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\383989\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\383989\source\repos\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\383989\source\repos\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\383989\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\383989\source\repos\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\383989\source\repos\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\s209065\Downloads\Text based game 2\Project 2\Project 2\obj\Debug\Project 2.pdb
